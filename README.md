@@ -21,11 +21,11 @@ With the use of Microsoft Excel and fictional datasets, I reviewed security cont
 
 | Finding | Observation | Status |
 
-| F-01 | One terminated employee account was still enabled | Simulated correction documented |
-| F-02 | Two employees had excessive administrative privileges | Simulated correction documented |
-| F-03 | Four accounts didn't have MFA enabled | Simulated correction documented |
-| F-04 | Three required access changes were not complete | Simulated correction documented |
-| F-05 | Five successful login events were associated with a disabled account | Investigation required |
+- F-01: One terminated employee account was still enabled | Simulated correction documented |
+- F-02: Two employees had excessive administrative privileges | Simulated correction documented |
+- F-03: Four accounts didn't have MFA enabled | Simulated correction documented |
+- F-04: Three required access changes were not complete | Simulated correction documented |
+- F-05: Five successful login events were associated with a disabled account | Investigation required 
 
 ## The Audit Methodology Used
 
